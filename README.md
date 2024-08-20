@@ -1,3 +1,3 @@
 # Watch the demo of the web application :
 
-![fl1](https://github.com/girish0903/Pneumonia-Detection-Few-Shot-Image-Classification/blob/main/Mini%20Project%20demo.mp4)
+![fl1](https://drive.google.com/file/d/1RLj9yL1RA4RgAK7RQl0NnQTE2GRDjaMw/view?usp=sharing)
